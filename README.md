@@ -25,6 +25,6 @@ My technical skills encompass Python, SQL, Statsmodel, and various statistical t
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/rashid-khan-analyst/)/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashid-khan-analyst/)
 
 
